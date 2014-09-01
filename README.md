@@ -38,4 +38,4 @@ compass.compile( options, function( err, result, code ){
 
 ## options
 
-See [grunt-contrib-compass](https://github.com/gruntjs/grunt-contrib-compass) to get detail about the options.
+See [grunt-contrib-compass](https://github.com/gruntjs/grunt-contrib-compass#options) to get detail about the options.
